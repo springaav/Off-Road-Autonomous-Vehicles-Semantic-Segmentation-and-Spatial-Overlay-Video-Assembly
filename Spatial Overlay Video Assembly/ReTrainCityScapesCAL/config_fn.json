@@ -1,0 +1,9 @@
+{
+    "NUM_EPOCHS": 500,
+    "BATCH_SIZE": 6,
+    "BASE_MODEL_NAME": "nvidia/segformer-b1-finetuned-cityscapes-1024-1024",
+    "EXPERIMENT_NAME": "segformer-b1 second-finetuned-cityscapes-1024-1024-cal-new",
+    "DATA_SET_PATH": "/gpfs0/bgu-hadar/users/itaidro/data/CityScape",
+    "LOSS_TYPE": "cal_ohem",
+    "CONFUSION_TYPE": "fn"
+}
