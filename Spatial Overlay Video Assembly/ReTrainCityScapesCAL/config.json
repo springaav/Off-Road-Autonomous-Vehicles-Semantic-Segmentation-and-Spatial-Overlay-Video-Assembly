@@ -1,0 +1,9 @@
+{
+  "NUM_EPOCHS": 500,
+  "BATCH_SIZE": 8,
+  "BASE_MODEL_NAME": "nvidia/segformer-b0-finetuned-cityscapes-1024-1024",
+  "EXPERIMENT_NAME": "segformer-b0 second-finetuned-cityscapes-1024-1024-balanced_ce",
+  "DATA_SET_PATH": "/gpfs0/bgu-hadar/users/itaidro/data/CityScape",
+  "LOSS_TYPE": "balanced_ce",
+  "CONFUSION_TYPE": "fn"
+}
