@@ -1,0 +1,124 @@
+Research Source Code License for Spatial Overlay Video Assembly and CCAL
+
+Copyright (c) 2026 Omer Aviv, Itai Dror, Ofer Hadar
+All rights reserved.
+
+1. Definitions
+
+“Licensor” means any person or entity that distributes its Work.
+
+“Software” means the original source code, models, scripts, documentation, figures, configurations,
+and related materials made available under this License.
+
+“Work” means the Software and any additions to or derivative works of the Software that are made
+available under this License.
+
+The terms “reproduce,” “reproduction,” “derivative works,” and “distribution” shall have the meaning
+provided under applicable copyright law; provided, however, that for the purposes of this License,
+derivative works shall not include works that remain separable from, or merely link to, the interfaces of the Work.
+
+Works, including the Software, are made available under this License by including in or with the Work
+either (a) a copyright notice referencing the applicability of this License to the Work, or (b) a copy of this License.
+
+2. License Grant
+
+2.1 Copyright Grant.
+Subject to the terms and conditions of this License, each Licensor grants to you a perpetual,
+worldwide, non-exclusive, royalty-free, revocable copyright license to reproduce, prepare derivative works of,
+publicly display, publicly perform, and distribute the Work and any resulting derivative works,
+solely for non-commercial research and educational purposes.
+
+3. Limitations
+
+3.1 Redistribution.
+You may reproduce or distribute the Work only if:
+(a) you do so under this License,
+(b) you include a complete copy of this License with your distribution, and
+(c) you retain without modification any copyright, patent, trademark, attribution, and disclaimer notices
+that are present in the Work.
+
+3.2 Derivative Works.
+You may create derivative works of the Work only for non-commercial research or educational use.
+If you distribute derivative works, you must clearly identify the modifications you made and state
+that such derivative works are based on the original Work.
+
+3.3 Use Limitation.
+The Work and any derivative works thereof may be used only for non-commercial purposes.
+“Non-commercial” means research, academic study, personal learning, publication, evaluation,
+and educational use, and excludes any commercial exploitation, proprietary integration,
+paid service, productization, or other for-profit use without prior written permission from the Licensor.
+
+3.4 No Commercial Model or Weight Redistribution.
+Pretrained weights, checkpoints, and trained models associated with the Work may not be sold,
+repackaged for sale, or redistributed as part of a commercial product or service without prior written permission.
+
+3.5 Attribution Requirement.
+Any use, reproduction, distribution, publication, or derivative work based on the Work must provide
+appropriate academic and repository attribution to the original authors and project.
+
+3.6 Patent Claims.
+If you bring or threaten to bring a patent claim against any Licensor alleging that the Work infringes a patent,
+then your rights under this License from such Licensor shall terminate immediately.
+
+3.7 Trademarks.
+This License does not grant any rights to use any Licensor’s names, logos, institutional names,
+or trademarks, except as necessary to reproduce the attribution notices described in this License.
+
+3.8 Termination.
+If you violate any term of this License, then your rights under this License shall terminate immediately.
+
+4. Disclaimer of Warranty
+
+THE WORK IS PROVIDED “AS IS” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. YOU BEAR THE RISK OF UNDERTAKING ANY ACTIVITIES UNDER THIS LICENSE.
+
+5. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ANY LICENSOR BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+6. Academic Citation
+
+If you use the Work in academic research, publications, reports, or derivative academic output,
+you are expected to cite the corresponding paper and acknowledge the original repository.
+
+7. External Assets
+
+Any third-party datasets, pretrained backbones, libraries, or external resources distributed separately
+from the Work remain subject to their own respective licenses and terms.
+
+
+Disclaimer of Warranty and Limitation of Liability
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR FITNESS FOR ANY
+PARTICULAR TASK OR APPLICATION.
+
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, LICENSORS, OR CONTRIBUTORS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+BY USING THIS WORK, YOU ACKNOWLEDGE THAT YOU DO SO AT YOUR OWN RISK. THE AUTHORS
+AND COPYRIGHT HOLDERS SHALL NOT BE RESPONSIBLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT
+LIMITED TO LOSS OF DATA, LOSS OF PROFITS, SYSTEM FAILURE, MODEL ERRORS,
+MISCLASSIFICATIONS, UNSAFE DECISIONS, OR ANY OTHER DAMAGE RESULTING FROM THE
+USE OR INABILITY TO USE THE WORK.
+
+Third-Party Components and SegFormer Notice
+
+This project may include, build upon, interface with, adapt, fine-tune, or otherwise use components derived from or related to SegFormer.
+
+SegFormer and related components are subject to the NVIDIA Source Code License for SegFormer.
+Any use, reproduction, modification, distribution, fine-tuning, or other utilization of SegFormer
+or SegFormer-derived components must comply with the applicable NVIDIA license terms.
+
+Users of this repository are solely responsible for reviewing and complying with the NVIDIA Source Code License
+whenever SegFormer code, architecture definitions, pretrained weights, model components, or derivative implementations are used.
+
+Reference:
+https://github.com/NVlabs/SegFormer/blob/master/LICENSE
