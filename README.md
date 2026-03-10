@@ -15,6 +15,7 @@ This repository presents an integrated framework for **off-road autonomous navig
 ### Qualitative Segmentation Examples
 
 ![Qualitative segmentation examples](images/semantic_segmentation_samples2.png)
+![Qualitative segmentation examples](images/semantic_segmentation_field.png)
 
 ### Class Co-Occurrence Matrix
 
