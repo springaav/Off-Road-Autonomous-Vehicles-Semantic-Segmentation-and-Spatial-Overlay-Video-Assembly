@@ -130,14 +130,15 @@ These results show that the spatial overlay representation preserves **ROI quali
 - Severe weather, low light, fog, dust, and sensor degradation may still reduce segmentation and transmission robustness.
 - Conventional codecs are not optimized for hybrid semantic-natural video streams, leaving room for dedicated codec design.
 
-אם אתה רוצה, הנה גם גרסה אפילו יותר מסודרת עם תת־כותרת לשני סוגי משקולות:
 
 ```md
 ## Pretrained Weights
 
 ### Semantic Segmentation Weights
-- [Download Link 1](PASTE_GITHUB_RELEASE_LINK_HERE)
-- [Download Link 2](PASTE_SECOND_WEIGHT_LINK_HERE)
+# best Different loss on segformer-b0
+- [Download Link 1](https://drive.google.com/drive/folders/1M008pGgZE8FAIPNRmpMDQ2gwy2UpSIyp?usp=drive_link)
+# segformer-b0-5-finetuned-cityscapes
+- [Download Link 2](https://drive.google.com/file/d/1n67Kalw_Pzl5qppzioKAAOxhngfMiq4E/view?usp=drive_link)
 
 ### Notes
 Download the checkpoint and place it in the `weights/` directory before running evaluation or inference.
