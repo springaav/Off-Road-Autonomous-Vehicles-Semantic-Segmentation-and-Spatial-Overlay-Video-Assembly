@@ -23,7 +23,7 @@ This repository presents an integrated framework for **off-road autonomous navig
 
 ### Normalized Confusion Matrix Used by CCAL
 
-![Normalized confusion matrix](images/Confusion_Matrix_Row_Normalized.png)
+![Normalized confusion matrix](Confusion_Matrix_Row_Normalized.png)
 
 ### Spatial Overlay Video Assembly Pipeline
 
