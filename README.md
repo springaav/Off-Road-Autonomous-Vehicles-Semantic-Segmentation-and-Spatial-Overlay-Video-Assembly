@@ -1,4 +1,4 @@
-
+[![NVIDIA Source Code License](https://img.shields.io/badge/license-NSCL-blue.svg)](https://github.com/NVlabs/SegFormer/blob/master/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 # Off-Road Autonomous Vehicles: Semantic Segmentation and Spatial Overlay Video Assembly
 
