@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-custom-blue.svg)][LICENSE](LICENSE)
+[![License](https://img.shields.io/badge/license-custom-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 # Off-Road Autonomous Vehicles: Semantic Segmentation and Spatial Overlay Video Assembly
 
