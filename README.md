@@ -6,7 +6,7 @@ This repository presents an integrated framework for **off-road autonomous navig
 ## Main Contributions
 
 - A large-scale off-road dataset with **14,879** high-resolution images.
-- Pixel-wise annotations over **16 semantic classes** collected from **16 locations in 4 countries**.
+- Pixel-wise annotations over **16 semantic classes** .
 - A **Confusion-Aware Composite Loss (CCAL)** that improves class separability by penalizing systematic inter-class confusion.
 - A **segmentation-driven spatial overlay representation** for bandwidth-efficient video transmission in teleoperation and autonomous navigation.
 
