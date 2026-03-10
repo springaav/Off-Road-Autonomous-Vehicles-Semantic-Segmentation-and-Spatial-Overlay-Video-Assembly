@@ -131,7 +131,6 @@ These results show that the spatial overlay representation preserves **ROI quali
 - Conventional codecs are not optimized for hybrid semantic-natural video streams, leaving room for dedicated codec design.
 
 
-```md
 ## Pretrained Weights
 
 ### Semantic Segmentation Weights
