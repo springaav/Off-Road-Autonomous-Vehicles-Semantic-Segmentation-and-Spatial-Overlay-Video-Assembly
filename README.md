@@ -1,4 +1,5 @@
 
+![Python](https://img.shields.io/badge/python-3.x-blue)
 # Off-Road Autonomous Vehicles: Semantic Segmentation and Spatial Overlay Video Assembly
 
 This repository presents an integrated framework for **off-road autonomous navigation** that jointly improves **semantic segmentation robustness** and **task-aware video compression**. The method combines a confusion-aware composite loss (**CCAL**) for segmentation training with a **spatial overlay video representation** that preserves RGB detail only in safety-critical regions while abstracting less important background areas into semantic color blocks.
