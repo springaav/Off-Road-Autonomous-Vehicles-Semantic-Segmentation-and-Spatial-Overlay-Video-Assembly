@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/989175394.svg)](https://doi.org/10.3390/s26061944)
 [![License](https://img.shields.io/badge/license-custom-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 # Off-Road Autonomous Vehicles: Semantic Segmentation and Spatial Overlay Video Assembly
